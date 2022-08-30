@@ -1,1 +1,0 @@
-# Risk-and-return-using-sharpe-ratio
